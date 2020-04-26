@@ -1,0 +1,15 @@
+{
+  "name": "mockJest",
+  "version": "1.0.0",
+  "description": "This is an attempt to better understand Jest by building out a minimal library myself. ",
+  "main": "index.js",
+  "repository": "https://github.com/danfitz/mockJest",
+  "author": "Dan Fitz",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
